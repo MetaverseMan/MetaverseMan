@@ -58,3 +58,5 @@
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
 ![MetaverseMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaverseMan&show_icons=true)
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
