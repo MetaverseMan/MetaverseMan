@@ -62,3 +62,6 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 Founder of MetaGearDAO
+
+
+<img width="732" alt="image" src="https://github.com/MetaverseMan/MetaverseMan/assets/47131527/3865ecf2-14fc-4809-b100-f5a88f532958">
